@@ -1,10 +1,10 @@
 var builder = WebApplication.CreateBuilder(args);
 
 // middlewares
-builder.Services.AddControllers();
+builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
 
-app.MapControllerRoute("deafult", "/{controller}/{action}");
+app.MapControllerRoute("deafult", "/{controller=Produto}/{action=Index}");
 
 app.Run();

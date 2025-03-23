@@ -26,3 +26,6 @@ D:\Codigos\C#\POO\poo-ecomercy\obj\Debug\net9.0\refint\poo-ecomercy.dll
 D:\Codigos\C#\POO\poo-ecomercy\obj\Debug\net9.0\poo-ecomercy.pdb
 D:\Codigos\C#\POO\poo-ecomercy\obj\Debug\net9.0\poo-ecomercy.genruntimeconfig.cache
 D:\Codigos\C#\POO\poo-ecomercy\obj\Debug\net9.0\ref\poo-ecomercy.dll
+D:\Codigos\C#\POO\poo-ecomercy\obj\Debug\net9.0\poo-ecomercy.sourcelink.json
+D:\Codigos\C#\POO\poo-ecomercy\obj\Debug\net9.0\poo-ecomercy.RazorAssemblyInfo.cache
+D:\Codigos\C#\POO\poo-ecomercy\obj\Debug\net9.0\poo-ecomercy.RazorAssemblyInfo.cs
